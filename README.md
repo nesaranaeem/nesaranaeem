@@ -34,6 +34,5 @@ Hello👋!<br>I am a full stack web developer with a strong background in HTML, 
 [![](https://gtce.itsvg.in/api?username=nesaranaeem)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nesaranaeem&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nesaranaeem&icon=0&color=0)]
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
