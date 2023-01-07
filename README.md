@@ -31,7 +31,7 @@ Hello👋!<br>I am a full stack web developer with a strong background in HTML, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nesaranaeem&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=nesaranaeem)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+![](https://gtce.itsvg.in/api?username=nesaranaeem)]
 
 ---
 ![](https://visitcount.itsvg.in/api?id=nesaranaeem&icon=0&color=0)
